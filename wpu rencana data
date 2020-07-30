@@ -1,7 +1,11 @@
 rencana data wpu
 - membuat data barang
   * memasukan gambar
+    ^ jumbotron
+    ^ slide
   * memasukan harga
+    ^ harga diskon
+    ^ harga ongkir
   * memasukan kriteria
 - menambahkan tutorial fitur
   * tutorial via gambar poster mini menarik bertuliskan tata cara penggunaan
@@ -10,3 +14,6 @@ rencana data wpu
   * alamat rumah
   * profil pelanggan
 - membuat data toko
+  * nama toko 
+  * alamat toko
+  * pemilik
