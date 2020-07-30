@@ -1,7 +1,11 @@
 rencana data wpu
 - membuat data barang
   * memasukan gambar
+    ^ jumbotron
+    ^ slide
   * memasukan harga
+    ^ harga diskon
+    ^ harga ongkir
   * memasukan kriteria
 - menambahkan tutorial fitur
 - membuat data pelanggan
